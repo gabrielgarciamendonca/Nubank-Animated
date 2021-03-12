@@ -1,6 +1,7 @@
 import styled from 'styled-components/native';
+import { Animated } from 'react-native';
 
-export const Container = styled.View`
+export const Container = styled(Animated.View)`
   height: 100px;
   margin-top: 20px;
 `;
@@ -12,8 +13,8 @@ export const TabsContainer = styled.ScrollView.attrs({
 })``;
 
 export const TabItem = styled.TouchableOpacity`
-  width: 100px;
-  height: 100px;
+  width: 90px;
+  height: 90px;
   background: rgba(255, 255, 255, 0.2);
   border-radius: 3px;
   margin-left: 10px;
@@ -22,7 +23,7 @@ export const TabItem = styled.TouchableOpacity`
 `
 
 export const TabText = styled.Text`
-  font-size: 13px;
+  font-size: 12px;
   color: #FFF;
 `
 
