@@ -1,9 +1,11 @@
 
-<h1 align="center">Nubank Fake</h1>
+<h1>Nubank Fake</h1>
 
-<p align="center">Este é um projeto para demostrar as capacidades de animação que o React Native é capaz de realizar, por meio do tutorial da rocketseat foi possível realizar o estudo das extensões de animação do React Native, como: Animated e React Native Gesture Handler. Além disso através desta aplicação é demostrado como adaptar o display a ser cross-platform, incluindo também o display do Iphone X, isso graças à extensão React Native Iphone X Helper.</p>
+<p>Este é um projeto para demostrar as capacidades de animação que o React Native é capaz de realizar, por meio do tutorial da rocketseat foi possível realizar o estudo das extensões de animação do React Native, como: Animated e React Native Gesture Handler. Além disso através desta aplicação é demostrado como adaptar o display a ser cross-platform, incluindo também o display do Iphone X, isso graças à extensão React Native Iphone X Helper.</p>
 
-
+<div align="center">
+   <img src="https://github.com/gabrielgarciamendonca/Nubank-Animated/blob/main/NubankDemostrate.gif" width="250" />
+</div>
 
 ## Desenvolvido por: 
  
